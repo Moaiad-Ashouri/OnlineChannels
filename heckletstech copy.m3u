@@ -117,4 +117,32 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" group-title="GERMANY",WDR Fernsehen
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 01
+https://hw18.cdn.asset.aparat.com/aparat-video/c98282b535698921ebc0d4531b3f0eac24020227-720p.apt/chunk.m3u8
 
+#EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 02
+https://as4.cdn.asset.aparat.com/aparat-video/12abaaa5ede31081f29c21742064f22d24020289-720p.apt/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 03
+https://as7.cdn.asset.aparat.com/aparat-video/88069391985645b310ac25aa6c22b3a824020335-720p.apt/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 04
+https://as10.cdn.asset.aparat.com/aparat-video/434cc40a8bd978c82170e9106e56187324020368-720p.apt/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 05
+https://as10.cdn.asset.aparat.com/aparat-video/d28cb648483b4c1944439438361f9a3624020409-720p.apt/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 06
+https://as4.cdn.asset.aparat.com/aparat-video/f51dd7511503f001a38f52d41c75ab3424056522-720p.apt/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 07
+https://as4.cdn.asset.aparat.com/aparat-video/ae5879190e9bb21ee764459228cd8cdb24056571-720p.apt/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 08
+https://as5.cdn.asset.aparat.com/aparat-video/e63d0c30cbde1427cff9db3ca7e0edd524056601-720p.apt/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 09
+https://as1.cdn.asset.aparat.com/aparat-video/4c7e263e9c4bab428f0c00f3700876db24056629-720p.apt/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 10
+https://as8.cdn.asset.aparat.com/aparat-video/1ec46f1c0716fd8a82353ad79427a14724056657-720p.apt/chunk.m3u8
