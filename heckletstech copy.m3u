@@ -81,4 +81,40 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.ipetitions.com/user-images/petitions/objection-to-voa-persian/loz0oZbiRuWlx5csWgCR_VOA_FARSI_LIVESTATION-1.png" group-title="IRAN",VoA
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bci3Sbi.png" group-title="GERMANY",1-2-3 TV
+http://123tv-mx1.flex-cdn.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png" group-title="GERMANY",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExwbjFn.png" group-title="GERMANY",Baden TV (Opt-1)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/BR_Dachmarke.svg/1200px-BR_Dachmarke.svg.png" group-title="GERMANY",BR Nord
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle (Opt-1)
+https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle (Opt-2)
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SztpK9s.png" group-title="GERMANY",Deutsches Musik Fernsehen (Opt-1)
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Folx_TV.png" group-title="GERMANY",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="GERMANY",HR Fernsehen (Opt-1)
+http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="GERMANY",NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="GERMANY",Radio Weser TV Bremen (New!)
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" group-title="GERMANY",WDR Fernsehen
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+
 
