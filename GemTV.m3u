@@ -1,0 +1,4 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_az.png?14" group-title="GEM TV",GEM AZ
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist.m3u8
