@@ -9,6 +9,23 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemclassic.png" group-title="GEM TV",GEM CLASSIC
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemdrama.png" group-title="GEM TV",GEM DRAMA+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemdrama.png" group-title="GEM TV",GEM DRAMA
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png" group-title="GEM TV",GEM TV
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemseries.png" group-title="GEM TV",GEM SERIEAS
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/river.png" group-title="GEM TV",GEM RIVER
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_film.png" group-title="GEM TV",GEM FILM
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_arabia.png" group-title="GEM TV",GEM ARABIA
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_fit.png" group-title="GEM TV",GEM FIT
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
