@@ -78,6 +78,18 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_latino.png" group-title="GEM TV",GEM LATINO
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" group-title="Iran TV",Channel 01
+https://sdm.telewebion.com/devices/_definst_/tv1-adaptive.stream/tv1-500_default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png" group-title="Iran TV",Channel 02
+https://sdm.telewebion.com/devices/_definst_/tv2-adaptive.stream/tv2-500_default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" group-title="Iran TV",Channel 03
+https://sdm.telewebion.com/devices/_definst_/tv3-adaptive.stream/tv3-500_default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/irinn.png" group-title="Iran TV",News
+https://sdm.telewebion.com/devices/_definst_/irinn-adaptive.stream/irinn-500_default/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.ipetitions.com/user-images/petitions/objection-to-voa-persian/loz0oZbiRuWlx5csWgCR_VOA_FARSI_LIVESTATION-1.png" group-title="IRAN",VoA
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 
@@ -147,14 +159,4 @@ https://as1.cdn.asset.aparat.com/aparat-video/4c7e263e9c4bab428f0c00f3700876db24
 #EXTINF:-1 tvg-logo="https://eezgiisik.files.wordpress.com/2019/07/tumblr_ptfviuwlcc1uvv7dr_1280.png" group-title="Dark Series",Session 01 Episode 10
 https://as8.cdn.asset.aparat.com/aparat-video/1ec46f1c0716fd8a82353ad79427a14724056657-720p.apt/chunk.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" group-title="Iran TV",Channel 01
-https://sdm.telewebion.com/devices/_definst_/tv1-adaptive.stream/tv1-500_default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png" group-title="Iran TV",Channel 02
-https://sdm.telewebion.com/devices/_definst_/tv2-adaptive.stream/tv2-500_default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" group-title="Iran TV",Channel 03
-https://sdm.telewebion.com/devices/_definst_/tv3-adaptive.stream/tv3-500_default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/irinn.png" group-title="Iran TV",News
-https://sdm.telewebion.com/devices/_definst_/irinn-adaptive.stream/irinn-500_default/index.m3u8
