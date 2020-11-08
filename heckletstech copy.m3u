@@ -83,11 +83,12 @@ https://sl35.telewebion.com/devices/_definst_/tv1-500k.stream/chunks.m3u8?nimble
 
 #EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png" group-title="Iran TV",Channel 02
 https://sa20.telewebion.com/devices/_definst_/tv2-500k.stream/chunks.m3u8?nimblesessionid=183736545&wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTExLzgvMjAyMCA1OjQ6MzAgUE0maGFzaF92YWx1ZT1OT1NhZ3ZrZHIyWUUvak9JdjhHZEJRPT0mdmFsaWRtaW51dGVzPTYwMDA=
+
 #EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" group-title="Iran TV",Channel 03
-https://sdm.telewebion.com/devices/_definst_/tv3-adaptive.stream/tv3-500_default/index.m3u8
+https://sdm.telewebion.com/devices/_definst_/tv3-500k.stream/tv3-240p/1604762914781459.ts?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTExLzgvMjAyMCA1Ojk6MzggUE0maGFzaF92YWx1ZT1PSGlQTlpTc2w4S2RCUzdkZ2k0UVNnPT0mdmFsaWRtaW51dGVzPTYwMDA=&origin=sa20.telewebion.com
 
 #EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/irinn.png" group-title="Iran TV",News
-https://sdm.telewebion.com/devices/_definst_/irinn-adaptive.stream/irinn-500_default/index.m3u8
+https://sa20.telewebion.com/devices/_definst_/irinn-500k.stream/l_25917943_174053_29.ts?nimblesessionid=183767578&wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTExLzgvMjAyMCA1OjExOjAgUE0maGFzaF92YWx1ZT1wWGY4Z3YyN2hSNGd3aHUrdW9ONzdRPT0mdmFsaWRtaW51dGVzPTYwMDA=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.ipetitions.com/user-images/petitions/objection-to-voa-persian/loz0oZbiRuWlx5csWgCR_VOA_FARSI_LIVESTATION-1.png" group-title="IRAN",VoA
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
