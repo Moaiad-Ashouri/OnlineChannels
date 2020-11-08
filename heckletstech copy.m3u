@@ -82,8 +82,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
 https://sl35.telewebion.com/devices/_definst_/tv1-500k.stream/chunks.m3u8?nimblesessionid=16985375&wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTExLzgvMjAyMCA0OjUxOjE3IFBNJmhhc2hfdmFsdWU9MnRKWHRoV0lvMytWQ1NaLzZIa1Vwdz09JnZhbGlkbWludXRlcz02MDAw
 
 #EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png" group-title="Iran TV",Channel 02
-https://sdm.telewebion.com/devices/_definst_/tv2-adaptive.stream/tv2-500_default/index.m3u8
-
+https://sa20.telewebion.com/devices/_definst_/tv2-500k.stream/chunks.m3u8?nimblesessionid=183736545&wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTExLzgvMjAyMCA1OjQ6MzAgUE0maGFzaF92YWx1ZT1OT1NhZ3ZrZHIyWUUvak9JdjhHZEJRPT0mdmFsaWRtaW51dGVzPTYwMDA=
 #EXTINF:-1 tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" group-title="Iran TV",Channel 03
 https://sdm.telewebion.com/devices/_definst_/tv3-adaptive.stream/tv3-500_default/index.m3u8
 
