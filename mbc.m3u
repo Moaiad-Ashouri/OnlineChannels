@@ -97,3 +97,6 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 --
 #EXTINF:-1 tvg-id="ZDF.de@SD" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="World CUP",ZDF (720p)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+--
+#EXTINF:-1 tvg-id="DASERSTE.de@SD" tvg-logo="" group-title="World CUP",Das Erste (720p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
